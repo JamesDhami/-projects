@@ -6,7 +6,8 @@
 }
 
 .main_container{
-
+  background: #2f3133;
+  margin: 50px;
 
 
 }
@@ -29,21 +30,3 @@ ul {
 li {
     float: left;
 }
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #4200fc;
-    /* Chrome, Safari, Opera */
-@-webkit-keyframes rainbow{
-	20%{color: red;}
-	40%{color: yellow;}
-	60%{color: green;}
-	80%{color: blue;}
-	100%{color: orange;}	
